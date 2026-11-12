@@ -1,7 +1,7 @@
 # 1.3.0 validation — 2026-10-15
 
 Working tree: `H:\Repositories\制約ワードウルフ\verify-repo`
-Remote: https://github.com/MT0623Owner/-
+Remote: https://github.com/MT0623Owner/constraint-wordwolf
 
 ## Local checks
 
