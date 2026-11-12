@@ -33,7 +33,7 @@
 
 ```powershell
 $env:CWW_LIVE_TEST = '1'
-$env:CWW_TEST_URL = 'https://mt0623owner.github.io/-/'
+$env:CWW_TEST_URL = 'https://mt0623owner.github.io/constraint-wordwolf/'
 $env:CWW_CAPTURE_DIR = 'C:\任意の検証画像出力先'
 node tests/live-release.cjs
 ```

@@ -4,12 +4,12 @@
 
 ## 公開版・参加方法
 
-- 公開URL: https://mt0623owner.github.io/-/
+- 公開URL: https://mt0623owner.github.io/constraint-wordwolf/
 - バージョン: 1.7.1
-- GitHub: https://github.com/MT0623Owner/-
+- GitHub: https://github.com/MT0623Owner/constraint-wordwolf
 - サイトを開くQRコード: [site-qr.svg](assets/site-qr.svg)
 
-[![制約ワードウルフの公開サイトを開くQRコード](assets/site-qr.svg)](https://mt0623owner.github.io/-/)
+[![制約ワードウルフの公開サイトを開くQRコード](assets/site-qr.svg)](https://mt0623owner.github.io/constraint-wordwolf/)
 
 スマホのカメラで上のQRコードを読み取ると、公開サイトを開けます。画像のクリックでも開けます。
 
